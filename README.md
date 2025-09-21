@@ -1,8 +1,3 @@
-# Proyecto 6: Computer Vision
-
-Aquí tienes un ejemplo de **README.md** para tu proyecto de login facial con DeepFace:
-
-````markdown
 # Sistema de Login Facial con DeepFace
 
 ## Descripción
