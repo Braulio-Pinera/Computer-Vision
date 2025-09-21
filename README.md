@@ -90,8 +90,3 @@ README.md           # Documentación
 
 * En WSL no es posible usar webcam directamente; subir fotos manualmente.
 * Se recomienda ejecutar en Windows nativo para capturas automáticas desde la cámara.
-
-```
-
-Si quieres, puedo generarte **una versión más completa con screenshots, formularios web para subir imágenes y endpoints listos**, para que el README quede listo para compartir en GitHub. ¿Quieres que haga eso?
-```
